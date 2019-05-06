@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bba1af13-e499-45db-af82-ff1d65c23086" name="Default Changelist" comment="增加前端页面部分">
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/resources/mybatis/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/resources/properties/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/resources/spring/applicationContext-transaction.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../taotaocontent/taotaocontent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taotao-common/src/main/java/com/taotao/common/pojo/EasyUITreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taotao-common/src/main/java/com/taotao/common/pojo/TaotaoResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaocontent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaocontent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaocontent/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-common/target/taotao-common.jar" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-common/target/taotao-common.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-manager-web/target/tomcat/logs/access_log.2019-05-06" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager-web/target/tomcat/logs/access_log.2019-05-06" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/target/taotao-manager-pojo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/target/taotao-manager-pojo.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../taotaoportalweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoportalweb/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../taotaoportalweb/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoportalweb/src/main/resources/spring/springmvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../taotaoportalweb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoportalweb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
@@ -135,6 +107,16 @@
         <counts>
           <entry key="JAVA" value="2" />
           <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -327,97 +309,6 @@
               <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
               <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-pojo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotaoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -431,7 +322,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557136999964" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557137952554" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -536,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557104527276</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="新建一些类">
+      <created>1557137044155</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557137044155</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -548,13 +446,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53706000" />
+    <option name="totallyTimeSpent" value="54446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -564,7 +462,7 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -629,7 +527,8 @@
     <MESSAGE value="在配置文件删除controller文件夹" />
     <MESSAGE value="增加log4j打印日志" />
     <MESSAGE value="增加前端页面部分" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加前端页面部分" />
+    <MESSAGE value="新建一些类" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建一些类" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/taotao-manager/taotao-manager-dao/pom.xml">
