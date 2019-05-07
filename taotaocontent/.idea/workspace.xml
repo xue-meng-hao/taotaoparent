@@ -2,12 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f7ca688-5b10-4ca3-b0de-a8f07c7768d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/src/main/java/com/taotao/controller/ContentCategoryController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-content-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-content-interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-content-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-content-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-transaction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-transaction.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-content-service/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-content-service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../taotaoparent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/target/classes/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/target/classes/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/src/main/java/com/taotao/mapper/TbContentCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/src/main/java/com/taotao/mapper/TbContentCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/target/classes/com/taotao/mapper/TbContentCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/target/classes/com/taotao/mapper/TbContentCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/target/taotao-manager-dao.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-dao/target/taotao-manager-dao.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-interface/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-interface/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-interface/target/taotao-manager-interface.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-interface/target/taotao-manager-interface.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentCategoryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentCategoryExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbContentExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemCatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemCatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemDesc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemDesc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemDescExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemDescExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamItemExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbItemParamItemExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderItemExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderItemExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderShipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderShipping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderShippingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbOrderShippingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbUserExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/src/main/java/com/taotao/pojo/TbUserExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategoryExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategoryExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategoryExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategoryExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategoryExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategoryExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentCategoryExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbContentExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCatExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCatExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCatExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCatExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCatExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCatExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCatExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemCatExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDesc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDesc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDescExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDescExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDescExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDescExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDescExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDescExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDescExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemDescExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItemExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItemExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItemExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItemExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItemExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItemExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItemExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbItemParamItemExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItemExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItemExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItemExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItemExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItemExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItemExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItemExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderItemExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShipping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShipping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShippingExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShippingExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShippingExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShippingExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShippingExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShippingExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShippingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbOrderShippingExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUserExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUserExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUserExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUserExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUserExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUserExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/classes/com/taotao/pojo/TbUserExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/taotao-manager-pojo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-pojo/target/taotao-manager-pojo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/surefire-reports/TEST-com.taotao.test.pagehelper.TestPageHelper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/surefire-reports/com.taotao.test.pagehelper.TestPageHelper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service.war" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service/WEB-INF/lib/taotao-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service/WEB-INF/lib/taotao-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service/WEB-INF/lib/taotao-manager-dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service/WEB-INF/lib/taotao-manager-dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service/WEB-INF/lib/taotao-manager-interface-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service/WEB-INF/lib/taotao-manager-interface-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service/WEB-INF/lib/taotao-manager-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/taotao-manager-service/WEB-INF/lib/taotao-manager-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/taotao-manager-service/target/tomcat/logs/access_log.2019-05-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/testmysql/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/testmysql/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/testmysql/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/testmysql/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoparent/taotao-manager/testmysql/target/testmysql.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoparent/taotao-manager/testmysql/target/testmysql.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../taotaoportalweb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoportalweb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../taotaoportalweb/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoportalweb/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../taotaoportalweb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoportalweb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taotaoportalweb/target/tomcat/logs/access_log.2019-05-06" beforeDir="false" afterPath="$PROJECT_DIR$/../taotaoportalweb/target/tomcat/logs/access_log.2019-05-06" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,107 +134,106 @@
     <session id="187716264">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="640" />
-          <entry key="txt" value="22" />
-          <entry key="xml" value="115" />
+          <entry key="java" value="1173" />
+          <entry key="txt" value="41" />
+          <entry key="xml" value="234" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="640" />
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="XML" value="115" />
+          <entry key="JAVA" value="1173" />
+          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="XML" value="234" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="2" />
+          <entry key="class" value="4" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="4" />
           <entry key="pom" value="1" />
-          <entry key="xml" value="7" />
+          <entry key="xml" value="17" />
+          <entry key="xsd" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="2" />
-          <entry key="XML" value="8" />
+          <entry key="CLASS" value="4" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="20" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            <state relative-caret-position="253">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotaocontent.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-content-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1771">
+              <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+            </state>
+          </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-service.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-transaction.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-603">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="39" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="310">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="-667">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,12 +243,12 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taotao-content-interface/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="253">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -150,19 +260,27 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dao</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/taotao-content-service/pom.xml" />
         <option value="$PROJECT_DIR$/taotao-content-interface/src/main/resources/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/taotao-content-interface/src/main/resources/spring/applicationContext-transaction.xml" />
-        <option value="$PROJECT_DIR$/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java" />
         <option value="$PROJECT_DIR$/taotao-content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-content-service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-transaction.xml" />
+        <option value="$PROJECT_DIR$/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java" />
         <option value="$PROJECT_DIR$/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-service.xml" />
       </list>
     </option>
   </component>
@@ -179,10 +297,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="563" />
-    <option name="y" value="23" />
-    <option name="width" value="804" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -191,7 +308,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,26 +340,36 @@
               <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotaocontent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotaocontent" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557137897124" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557213000360" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/taotao-content-interface/src/main/webapp/WEB-INF/web.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="spring" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -277,7 +404,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557133399171</updated>
-      <workItem from="1557133405192" duration="4464000" />
+      <workItem from="1557133405192" duration="4687000" />
+      <workItem from="1557191944200" duration="10560000" />
+      <workItem from="1557209029054" duration="1671000" />
     </task>
     <task id="LOCAL-00001" summary="上传taotaocontent项目">
       <created>1557136977852</created>
@@ -286,46 +415,53 @@
       <option name="project" value="LOCAL" />
       <updated>1557136977852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="实现category类">
+      <created>1557137930985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557137930985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4464000" />
+    <option name="totallyTimeSpent" value="16918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2473525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.32840723" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32840723" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32840723" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32840723" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.20361248" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,70 +498,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="上传taotaocontent项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="上传taotaocontent项目" />
+    <MESSAGE value="实现category类" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现category类" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$MAVEN_REPOSITORY$/com/taotao/taotao-content-interface/1.0-SNAPSHOT/taotao-content-interface-1.0-SNAPSHOT.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-207" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-content-service/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/mybatis/SqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-transaction.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-603">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-content-interface/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/taotao/taotao-manager-pojo/1.0-SNAPSHOT/taotao-manager-pojo-1.0-SNAPSHOT.jar!/com/taotao/pojo/TbItemExample.class">
@@ -435,13 +514,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state relative-caret-position="127">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.4.RELEASE/spring-jdbc-4.2.4.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.4.RELEASE/spring-beans-4.2.4.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-4.2.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="1072" column="44" lean-forward="true" selection-start-line="1072" selection-start-column="44" selection-end-line="1072" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/taotao/taotao-common/1.0-SNAPSHOT/taotao-common-1.0-SNAPSHOT.jar!/com/taotao/common/pojo/TaotaoResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotaocontent.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1771">
+          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-transaction.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentCategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-content-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="36" />
         </state>
       </provider>
     </entry>
